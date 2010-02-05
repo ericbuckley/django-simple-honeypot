@@ -24,6 +24,6 @@ Installation
     
     ``git clone git@github.com:ericbuckley/django-simple-honeypot.git honeypot``
     
-# In your forms.py file import the Honeypot field
+#. In your forms.py file import the Honeypot field
     
     ``from honeypot.fields import Honeypot``
