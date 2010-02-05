@@ -14,16 +14,12 @@ See: http://en.wikipedia.org/wiki/Honeypot_%28computing%29
 Installation
 ============
 
-#. Export django-simple-honeypot and place it into a folder within your project,
-    you can label the folder whatever you'd like, as you will need to use that
-    name to import the Honeypot field.
+#.  Export django-simple-honeypot and place it into a folder within your project, you can label the folder whatever you'd like, as you will need to use that name to import the Honeypot field.
     
-#. Alternatvly you can use the git to put the app right into your project
-    (if your project is already using git, you'll have to use the submodule 
-    command)
+#.  Alternatively you can use the git to put the app right into your project (if your project is already using git, you'll have to use the submodule command)
     
     ``git clone git@github.com:ericbuckley/django-simple-honeypot.git honeypot``
     
-#. In your forms.py file import the Honeypot field
+#.  In your forms.py file import the Honeypot field
     
     ``from honeypot.fields import Honeypot``
