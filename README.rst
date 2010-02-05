@@ -1,9 +1,9 @@
 author: eric buckley <eric.buckley@gmail.com>
 
 Just add this app to your project and put it in your installed apps tuple.
-====================
+======================
 django simple honeypot
-====================
+======================
 
 The django simple honeypot is a simple CharField that you can use
 in any of your forms to produce a hidden input field that is to 
