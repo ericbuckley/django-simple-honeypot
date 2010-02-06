@@ -18,7 +18,7 @@ Installation
     
 #.  Alternatively you can use the git to put the app right into your project (if your project is already using git, you'll have to use the submodule command)
     
-    ``git clone git@github.com:ericbuckley/django-simple-honeypot.git honeypot``
+    ``git clone git@github.com/ericbuckley/django-simple-honeypot.git honeypot``
     
 #.  In your forms.py file import the Honeypot field
     
